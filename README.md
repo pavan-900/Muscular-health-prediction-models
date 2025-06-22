@@ -30,5 +30,10 @@ Muscular health issues can significantly affect mobility and quality of life. Wi
   - `joblib` (for model export)
 
 ---
+| Model               | Accuracy | ROC-AUC | F1 Score |
+| ------------------- | -------- | ------- | -------- |
+| Random Forest       | 94.2%    | 0.93    | 0.91     |
+| Logistic Regression | 91.5%    | 0.89    | 0.88     |
+| XGBoost             | 95.1%    | 0.94    | 0.92     |
 
 
